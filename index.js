@@ -178,7 +178,7 @@ var settings = {
       }
       context.closePath();
       // create the fill
-      context.fillStyle = '#FF5CA4';
+      context.fillStyle = '#ff0202';
       context.fill();
       // create the image
       var image = new Image();
